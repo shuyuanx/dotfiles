@@ -1,0 +1,19 @@
+# Umich GitLab
+Host GitLab
+  HostName gitlab.com
+  User git
+  IdentityFile ~/.ssh/shuyuanx_rsa
+  
+#Github
+Host github.com
+  HostName github.com
+  User git 
+
+#CAEN
+Host Caen
+  HostName login.engin.umich.edu
+  User shuyuanx
+  Compression yes
+
+
+
